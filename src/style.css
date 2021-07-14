@@ -1,0 +1,43 @@
+.counter_div
+{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    font-family: sans-serif;
+}
+
+.btn
+{
+    margin-left:25px;
+    height: 80px;
+    width: 100px;
+    background-color:white;
+    color:black;
+    font-family: sans-serif;
+    border-radius: 100%;
+    border :2px rgb(15, 15, 15) solid;
+}
+
+.counter_div h1
+{
+    text-align: center;
+    size:3em;
+}
+
+.counter_div h2
+{
+    text-align: center;
+    font-size:120px;
+    color:rgba(0, 0, 0, 0.4);
+    text-shadow:3px 4px 5px #000;
+                
+}
+
+.btn-div
+{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+
